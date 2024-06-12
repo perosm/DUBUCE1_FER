@@ -1,0 +1,1944 @@
+Model: rnn
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 1
+	 dropout: 0
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 1
+	 dropout: 0
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 1
+	 dropout: 0.25
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 1
+	 dropout: 0.25
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 1
+	 dropout: 0.5
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 1
+	 dropout: 0.5
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 2
+	 dropout: 0
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 2
+	 dropout: 0
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 2
+	 dropout: 0.25
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 2
+	 dropout: 0.25
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 2
+	 dropout: 0.5
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 2
+	 dropout: 0.5
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 3
+	 dropout: 0
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 3
+	 dropout: 0
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 3
+	 dropout: 0.25
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 3
+	 dropout: 0.25
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 3
+	 dropout: 0.5
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 3
+	 dropout: 0.5
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 1
+	 dropout: 0
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 1
+	 dropout: 0
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 1
+	 dropout: 0.25
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 1
+	 dropout: 0.25
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 1
+	 dropout: 0.5
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 1
+	 dropout: 0.5
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 2
+	 dropout: 0
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 2
+	 dropout: 0
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 2
+	 dropout: 0.25
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 2
+	 dropout: 0.25
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 2
+	 dropout: 0.5
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 2
+	 dropout: 0.5
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 3
+	 dropout: 0
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 3
+	 dropout: 0
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 3
+	 dropout: 0.25
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 3
+	 dropout: 0.25
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 3
+	 dropout: 0.5
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 3
+	 dropout: 0.5
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 1
+	 dropout: 0
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 1
+	 dropout: 0
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 1
+	 dropout: 0.25
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 1
+	 dropout: 0.25
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 1
+	 dropout: 0.5
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 1
+	 dropout: 0.5
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 2
+	 dropout: 0
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 2
+	 dropout: 0
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 2
+	 dropout: 0.25
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 2
+	 dropout: 0.25
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 2
+	 dropout: 0.5
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 2
+	 dropout: 0.5
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 3
+	 dropout: 0
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 3
+	 dropout: 0
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 3
+	 dropout: 0.25
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 3
+	 dropout: 0.25
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 3
+	 dropout: 0.5
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: rnn
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 3
+	 dropout: 0.5
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.80
+	 recall: 0.73
+	 precision: 0.92
+	 f1: 0.82
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 1
+	 dropout: 0
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 1
+	 dropout: 0
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 1
+	 dropout: 0.25
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 1
+	 dropout: 0.25
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 1
+	 dropout: 0.5
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 1
+	 dropout: 0.5
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 2
+	 dropout: 0
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 2
+	 dropout: 0
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 2
+	 dropout: 0.25
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 2
+	 dropout: 0.25
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 2
+	 dropout: 0.5
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 2
+	 dropout: 0.5
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 3
+	 dropout: 0
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 3
+	 dropout: 0
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 3
+	 dropout: 0.25
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 3
+	 dropout: 0.25
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 3
+	 dropout: 0.5
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 3
+	 dropout: 0.5
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 1
+	 dropout: 0
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 1
+	 dropout: 0
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 1
+	 dropout: 0.25
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 1
+	 dropout: 0.25
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 1
+	 dropout: 0.5
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 1
+	 dropout: 0.5
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 2
+	 dropout: 0
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 2
+	 dropout: 0
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 2
+	 dropout: 0.25
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 2
+	 dropout: 0.25
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 2
+	 dropout: 0.5
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 2
+	 dropout: 0.5
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 3
+	 dropout: 0
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 3
+	 dropout: 0
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 3
+	 dropout: 0.25
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 3
+	 dropout: 0.25
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 3
+	 dropout: 0.5
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 3
+	 dropout: 0.5
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 1
+	 dropout: 0
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 1
+	 dropout: 0
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 1
+	 dropout: 0.25
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 1
+	 dropout: 0.25
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 1
+	 dropout: 0.5
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 1
+	 dropout: 0.5
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 2
+	 dropout: 0
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 2
+	 dropout: 0
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 2
+	 dropout: 0.25
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 2
+	 dropout: 0.25
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 2
+	 dropout: 0.5
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 2
+	 dropout: 0.5
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 3
+	 dropout: 0
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 3
+	 dropout: 0
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 3
+	 dropout: 0.25
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 3
+	 dropout: 0.25
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 3
+	 dropout: 0.5
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: gru
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 3
+	 dropout: 0.5
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.85
+	 recall: 0.83
+	 precision: 0.88
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 1
+	 dropout: 0
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 1
+	 dropout: 0
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 1
+	 dropout: 0.25
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 1
+	 dropout: 0.25
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 1
+	 dropout: 0.5
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 1
+	 dropout: 0.5
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 2
+	 dropout: 0
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 2
+	 dropout: 0
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 2
+	 dropout: 0.25
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 2
+	 dropout: 0.25
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 2
+	 dropout: 0.5
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 2
+	 dropout: 0.5
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 3
+	 dropout: 0
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 3
+	 dropout: 0
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 3
+	 dropout: 0.25
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 3
+	 dropout: 0.25
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 3
+	 dropout: 0.5
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 3
+	 dropout: 0.5
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 1
+	 dropout: 0
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 1
+	 dropout: 0
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 1
+	 dropout: 0.25
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 1
+	 dropout: 0.25
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 1
+	 dropout: 0.5
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 1
+	 dropout: 0.5
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 2
+	 dropout: 0
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 2
+	 dropout: 0
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 2
+	 dropout: 0.25
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 2
+	 dropout: 0.25
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 2
+	 dropout: 0.5
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 2
+	 dropout: 0.5
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 3
+	 dropout: 0
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 3
+	 dropout: 0
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 3
+	 dropout: 0.25
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 3
+	 dropout: 0.25
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 3
+	 dropout: 0.5
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 150
+	 num_layers: 3
+	 dropout: 0.5
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 1
+	 dropout: 0
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 1
+	 dropout: 0
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 1
+	 dropout: 0.25
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 1
+	 dropout: 0.25
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 1
+	 dropout: 0.5
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 1
+	 dropout: 0.5
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 2
+	 dropout: 0
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 2
+	 dropout: 0
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 2
+	 dropout: 0.25
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 2
+	 dropout: 0.25
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 2
+	 dropout: 0.5
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 2
+	 dropout: 0.5
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 3
+	 dropout: 0
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 3
+	 dropout: 0
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 3
+	 dropout: 0.25
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 3
+	 dropout: 0.25
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 3
+	 dropout: 0.5
+	 bidirectional: True
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________
+Model: lstm
+Hiperparams:
+	 hidden_layers: 200
+	 num_layers: 3
+	 dropout: 0.5
+	 bidirectional: False
+Metrics:
+	 accuracy: 0.83
+	 recall: 0.78
+	 precision: 0.92
+	 f1: 0.85
+______________________________________________________

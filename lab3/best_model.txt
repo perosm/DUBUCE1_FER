@@ -1,0 +1,2 @@
+Best hiperparams: ('gru', 100, 1, 0, True)
+Best f1_score: 0.8532731376975169

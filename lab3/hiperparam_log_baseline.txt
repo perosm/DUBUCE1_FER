@@ -1,0 +1,36 @@
+Model: 1000
+Hiperparams:
+	 hidden_layers: 100
+	 num_layers: 0.5
+	 dropout: 50
+	 bidirectional: 1
+Metrics:
+	 accuracy: 0.52
+	 recall: 0.54
+	 precision: 0.16
+	 f1: 0.25
+______________________________________________________
+Model: 2000
+Hiperparams:
+	 hidden_layers: 20
+	 num_layers: 0.25
+	 dropout: 100
+	 bidirectional: 0.5
+Metrics:
+	 accuracy: 0.53
+	 recall: 0.54
+	 precision: 0.31
+	 f1: 0.39
+______________________________________________________
+Model: -1
+Hiperparams:
+	 hidden_layers: 10
+	 num_layers: 0
+	 dropout: 200
+	 bidirectional: 0.25
+Metrics:
+	 accuracy: 0.76
+	 recall: 0.75
+	 precision: 0.78
+	 f1: 0.76
+______________________________________________________
